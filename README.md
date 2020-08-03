@@ -12,7 +12,7 @@ Repository Practice
       - README file edit
       - gitignore file creation and edit
     - Github desktop
-      -
+      - test.txt file upload
     - Matlab
-      -
+      - Unused
       
