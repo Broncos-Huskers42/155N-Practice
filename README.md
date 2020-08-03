@@ -10,6 +10,7 @@ Repository Practice
   ## Which tools I used for each step
     - Github online
       - README file edit
+      - gitignore file creation and edit
     - Github desktop
       -
     - Matlab
